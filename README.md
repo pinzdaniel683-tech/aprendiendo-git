@@ -1,3 +1,8 @@
 # aprendiendo-git
 repositorio para mis primeros pasos en git
-dia dos aprendiendo 
+
+## dia dos aprendiendo 
+
+- hdashdadh
+- jsdjasdj
+  
